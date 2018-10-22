@@ -6,6 +6,10 @@ $config = require_once BASE_DIR.'/config.php';
 
 # require limonade
 require_once BASE_DIR.'/vendors/limonade.php';
+<<<<<<< HEAD
+=======
+
+>>>>>>> a8e4ee44d98c3d9f57d593aa0c9b8f8e5b8c133e
 require_once BASE_DIR.'/vendors/core/Model.php';
 
 
